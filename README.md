@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuel-karari
-- 👀 I’m interested in MR ROBOT
+- 👀 I’m interested in Applying coding in Resume Generators
 - 🌱 I’m currently learning Jscript and React.js
 - 💞️ I’m looking to collaborate on CV Writing auto generators
 - 📫 How to reach me 
